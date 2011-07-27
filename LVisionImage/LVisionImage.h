@@ -1,0 +1,13 @@
+// LVisionImage.h
+
+#pragma once
+
+using namespace System;
+
+namespace LVisionImage {
+
+	public ref class Class1
+	{
+		// TODO: Add your methods for this class here.
+	};
+}
